@@ -137,7 +137,7 @@
 ###### 打开下载完成的 dmg 映像文件，将 ClashX 添加到应用程序文件夹中。
 <br>
 
-##### ![](https://2656727973-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MJ1y1XnJx_66NtD2R1x%2F-MW-nFI3yj8m3moIpY27%2F-MW-nt8tKNjxQTujWVbZ%2Fimage.png?alt=media&token=6dc75a16-0340-42bc-9d4e-d3406b68c23b "")
+##### ![](https://ou1.fun/i/2022/04/17/625b67218d952.png "1")
 <br>
 
 
