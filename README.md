@@ -14,7 +14,7 @@
 ##### 1、Clash for Android安装使用教程
 
 ##### ①.下载客户端：
-#### **->[点击下载Clash for Android](https://www.anlocc.com/wp-content/uploads/2022/04/1648823076-cfa-2.5.4-premium-universal-release-1.apk)<-**
+#### **->[点击下载Clash安装包](https://www.anlocc.com/wp-content/uploads/2022/04/1648823076-cfa-2.5.4-premium-universal-release-1.apk)<-**
 <br>
 
 ##### ②.根据下面的截图顺序导入订阅信息
